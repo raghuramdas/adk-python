@@ -21,6 +21,8 @@ from .loop_agent import LoopAgent
 from .parallel_agent import ParallelAgent
 from .run_config import RunConfig
 from .sequential_agent import SequentialAgent
+from .personal_assistant_agent import PersonalAssistantAgent
+from .task_manager_agent import TaskManagerAgent
 
 __all__ = [
     'Agent',
@@ -28,5 +30,7 @@ __all__ = [
     'LlmAgent',
     'LoopAgent',
     'ParallelAgent',
+    'PersonalAssistantAgent',
     'SequentialAgent',
+    'TaskManagerAgent',
 ]

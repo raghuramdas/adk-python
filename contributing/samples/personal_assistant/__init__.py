@@ -12,10 +12,4 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-from . import agents
-from . import version
-from .agents.llm_agent import Agent
-from .runners import Runner
-
-__version__ = version.__version__
-__all__ = ["Agent", "Runner", "agents"]
+"""Sample for the Personal Assistant Agent."""
