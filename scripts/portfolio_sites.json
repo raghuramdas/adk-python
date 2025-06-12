@@ -1,0 +1,16 @@
+[
+  {"name": "Africa Markets", "url": "https://africamarkets.com/home", "apps": false},
+  {"name": "Accretiv Zone", "url": "https://invest.accretivzone.com/", "apps": false},
+  {"name": "CRE Income Fund", "url": "https://creincomefund.com/", "apps": false},
+  {"name": "Block Engine", "url": "https://blockengine.io/", "apps": false},
+  {"name": "USA REIT", "url": "https://usareit.com/", "apps": false},
+  {"name": "Second Market", "url": "https://secondmarket.co.za/", "apps": false},
+  {"name": "Fund Engine", "url": "https://fundengine.io/", "apps": false},
+  {"name": "OrbVest", "url": "https://orbvest.com/", "apps": false},
+  {"name": "Leisure Leagues", "url": "https://www.leisureleagues.net/", "apps": false},
+  {"name": "Enforma Venice", "url": "https://enforma-venice.com/", "apps": false},
+  {"name": "Difiaba", "url": "https://www.difiaba.com/", "apps": false},
+  {"name": "Fashion Go", "url": "https://www.fashiongo.net/", "apps": true},
+  {"name": "Rentler AU", "url": "https://rentler.com.au/", "apps": true},
+  {"name": "My Rental Spot", "url": "https://myrentalspot.com/", "apps": true}
+]
