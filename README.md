@@ -131,6 +131,22 @@ adk eval \
     samples_for_testing/hello_world/hello_world_eval_set_001.evalset.json
 ```
 
+## 📊 Portfolio Slide Deck Example
+
+This repository includes a small script that generates a web-based slide deck
+showcasing recent web and mobile projects. The slide deck uses
+[Reveal.js](https://revealjs.com/) and loads screenshots from an online
+thumbnail service.
+
+To generate the deck run:
+
+```bash
+python scripts/generate_portfolio.py
+```
+
+The resulting `assets/portfolio/index.html` can be opened in any browser and
+displays a slide for each project.
+
 ## 🤝 Contributing
 
 We welcome contributions from the community! Whether it's bug reports, feature requests, documentation improvements, or code contributions, please see our
